@@ -1,4 +1,4 @@
-**Step 1:** [Download]https://github.com/Nachiket-072005/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
+**Step 1:** [Download](https://github.com/Nachiket-072005/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
 
 **Step 2:** To run:
 
